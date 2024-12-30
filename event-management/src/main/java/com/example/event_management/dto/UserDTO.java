@@ -2,10 +2,8 @@ package com.example.event_management.dto;
 
 import lombok.Getter;
 import lombok.Setter;
-import org.springframework.web.bind.annotation.ModelAttribute;
 
 import java.time.LocalDateTime;
-import java.util.Date;
 
 @Getter
 @Setter
